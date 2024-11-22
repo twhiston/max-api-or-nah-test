@@ -273,16 +273,18 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 505.0, 289.0, 490.0, 22.0 ],
+					"patching_rect" : [ 505.0, 289.0, 480.0, 22.0 ],
 					"saved_object_attributes" : 					{
 						"autostart" : 0,
 						"defer" : 0,
+						"node_bin_path" : "",
+						"npm_bin_path" : "",
 						"watch" : 0
 					}
 ,
-					"text" : "node.script \"~/Documents/Max 9/Library/max-api-or-nah-test/esm/max-api-or-nah-test.mjs\"",
+					"text" : "node.script \"~/Documents/Max 9/Library/max-api-or-nah-test/esm/max-api-or-nah-test.js\"",
 					"textfile" : 					{
-						"filename" : "~/Documents/Max 9/Library/max-api-or-nah-test/esm/max-api-or-nah-test.mjs.js",
+						"filename" : "max-api-or-nah-test.js",
 						"flags" : 0,
 						"embed" : 0,
 						"autowatch" : 1
@@ -347,8 +349,6 @@
 					"saved_object_attributes" : 					{
 						"autostart" : 0,
 						"defer" : 0,
-						"node_bin_path" : "",
-						"npm_bin_path" : "",
 						"watch" : 0
 					}
 ,
